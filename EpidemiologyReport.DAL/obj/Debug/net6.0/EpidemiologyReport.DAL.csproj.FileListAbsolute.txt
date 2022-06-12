@@ -1,0 +1,15 @@
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\bin\Debug\net6.0\EpidemiologyReport.DAL.deps.json
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\bin\Debug\net6.0\EpidemiologyReport.DAL.dll
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\bin\Debug\net6.0\EpidemiologyReport.DAL.pdb
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\bin\Debug\net6.0\EpidemiologyReport.Services.dll
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\bin\Debug\net6.0\EpidemiologyReport.Services.pdb
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\obj\Debug\net6.0\EpidemiologyReport.DAL.csproj.AssemblyReference.cache
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\obj\Debug\net6.0\EpidemiologyReport.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\obj\Debug\net6.0\EpidemiologyReport.DAL.AssemblyInfoInputs.cache
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\obj\Debug\net6.0\EpidemiologyReport.DAL.AssemblyInfo.cs
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\obj\Debug\net6.0\EpidemiologyReport.DAL.csproj.CoreCompileInputs.cache
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\obj\Debug\net6.0\EpidemiologyReport.DAL.csproj.CopyComplete
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\obj\Debug\net6.0\EpidemiologyReport.DAL.dll
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\obj\Debug\net6.0\refint\EpidemiologyReport.DAL.dll
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\obj\Debug\net6.0\EpidemiologyReport.DAL.pdb
+C:\bootcamp\Lesson2\EpidemiologyReport.DAL\obj\Debug\net6.0\ref\EpidemiologyReport.DAL.dll

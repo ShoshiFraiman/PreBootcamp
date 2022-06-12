@@ -1,0 +1,12 @@
+C:\bootcamp\Lesson2\EpidemiologyReport.Services\bin\Debug\net6.0\EpidemiologyReport.Services.deps.json
+C:\bootcamp\Lesson2\EpidemiologyReport.Services\bin\Debug\net6.0\EpidemiologyReport.Services.dll
+C:\bootcamp\Lesson2\EpidemiologyReport.Services\bin\Debug\net6.0\EpidemiologyReport.Services.pdb
+C:\bootcamp\Lesson2\EpidemiologyReport.Services\obj\Debug\net6.0\EpidemiologyReport.Services.csproj.AssemblyReference.cache
+C:\bootcamp\Lesson2\EpidemiologyReport.Services\obj\Debug\net6.0\EpidemiologyReport.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\bootcamp\Lesson2\EpidemiologyReport.Services\obj\Debug\net6.0\EpidemiologyReport.Services.AssemblyInfoInputs.cache
+C:\bootcamp\Lesson2\EpidemiologyReport.Services\obj\Debug\net6.0\EpidemiologyReport.Services.AssemblyInfo.cs
+C:\bootcamp\Lesson2\EpidemiologyReport.Services\obj\Debug\net6.0\EpidemiologyReport.Services.csproj.CoreCompileInputs.cache
+C:\bootcamp\Lesson2\EpidemiologyReport.Services\obj\Debug\net6.0\EpidemiologyReport.Services.dll
+C:\bootcamp\Lesson2\EpidemiologyReport.Services\obj\Debug\net6.0\refint\EpidemiologyReport.Services.dll
+C:\bootcamp\Lesson2\EpidemiologyReport.Services\obj\Debug\net6.0\EpidemiologyReport.Services.pdb
+C:\bootcamp\Lesson2\EpidemiologyReport.Services\obj\Debug\net6.0\ref\EpidemiologyReport.Services.dll
